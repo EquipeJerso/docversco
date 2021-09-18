@@ -1,6 +1,9 @@
 # docversco
 Controle de Versão de Documentos.
 
+## Sobre o Projeto: 
+
+Desenvolver um sistema para automatizar o versionamento de manuais de aeronaves, processo que atualmente é feito pelo Excel na empresa parceira.
 
 ## Time 4:
 

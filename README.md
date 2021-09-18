@@ -14,3 +14,21 @@ Posição | Nome | Github
 **DevTeam**  | Lucas Vinicius dos Santos Almeida| [Acessar Github](https://github.com/lucasvns)
 **Product Owner** | Nicolas Soares Telles | [Acessar Github](https://github.com/nicolastelles)
 **DevTeam** | Pedro Sousa Lopes | [Acessar Github](https://github.com/PedroSousaLopes)
+
+## Entregas -- Sprints
+
+### Sprint1
+
+![card1](https://user-images.githubusercontent.com/62885555/133897014-eb6a0b8a-5f92-4886-b8d6-9173061b8dce.png)
+
+### Sprint2
+
+![card2](https://user-images.githubusercontent.com/62885555/133897099-ea1cc12f-6ece-4bd2-a7ab-51e07b9e15c2.png)
+
+### Sprint2
+
+![card3](https://user-images.githubusercontent.com/62885555/133897098-9ed6aae9-c0a2-40bf-8cae-94b75f4dacd1.png)
+
+### Sprint4
+
+![card4](https://user-images.githubusercontent.com/62885555/133897105-79cf9f6e-790b-40df-994d-c6e0916f7839.png)

@@ -15,6 +15,13 @@ Posição | Nome | Github
 **Product Owner** | Nicolas Soares Telles | [Acessar Github](https://github.com/nicolastelles)
 **DevTeam** | Pedro Sousa Lopes | [Acessar Github](https://github.com/PedroSousaLopes)
 
+##  Disciplinas Integradas 
+
+- *Engenharia de Software III (Ministrada por: Prof. Gerson da Penha Neto)*
+- *Banco de dados (Ministrada por: Prof. Juliana Forin Pasquini Martinez)*
+- Programação de Scripts (Ministrada por: Prof. Arley Ferreira de Souza)
+- Sistemas Operacionais II (Ministrada por: Prof. Jean Carlos Lourenço Costa)
+
 ## Entregas -- Sprints
 
 ### Sprint1

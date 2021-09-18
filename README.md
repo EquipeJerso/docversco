@@ -24,6 +24,9 @@ Posição | Nome | Github
 
 ## Entregas -- Sprints
 
+### User Stories Completas
+- [User Stories.txt](https://github.com/EquipeJerso/docversco/files/7190376/user.stories.txt)
+
 ### Sprint1
 
 ![card1](https://user-images.githubusercontent.com/62885555/133897014-eb6a0b8a-5f92-4886-b8d6-9173061b8dce.png)

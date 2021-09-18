@@ -1,0 +1,76 @@
+============================================= SPRINT 4======================================================
+US023 / SPRINT4 / 18NOV21
+Eu, enquanto gerente do projeto necessito geração do documento Full 
+
+US022 / SPRINT4 / 18NOV21
+Eu, enquanto gerente do projeto necessito do envio do email com as revisões de documentos
+
+US021 / SPRINT4 / 18NOV21
+Eu, enquanto gerente do projeto necessito de um relatório com as revisões de documentos
+
+
+============================================= SPRINT 3 ====================================================
+US020 / SPRINT3 / 07NOV21
+Eu, enquanto gerente do projeto necessito da geração da LEP 
+
+US019 / SPRINT3 / 07NOV21
+Eu, enquanto gerente do projeto necessito da geração do documento Delta
+
+US018 / SPRINT3 / 07NOV21
+Eu, enquanto Scrum Master necessito fazer as tratativas necessárias no CRUD, para que esteja funcionando perfeitamente
+
+US017 / SPRINT3 / 07NOV21
+Eu, enquanto usuário do sistema necessito ter banco de dados, a permição que documentos, traços e blocos possam ter tags:(marte, saturno, planeta,estrela etc) utilizadas para agrupamento e identificação – GUI/API
+
+============================================= SPRINT 2 ======================================================
+US016 / SPRINT2 /18OUT20
+Eu, enquanto usuário necessito importar um documento (manual do avião) no meu sistema
+
+US015 / SPRINT2 /18OUT20
+Eu, enquanto gerente do projeto necessito do cadastro de usuários funcional
+
+US014 / SPRINT2 /18OUT20
+Eu, enquanto gerente do projeto necessito de um login funcional
+
+US013 / SPRINT2 / 10OUT21
+Eu, enquanto gerente do projeto necessito de um mecanismo básico de autenticação da GUI e API.
+
+US012 / SPRINT2 / 10OUT21
+Eu enquanto usuário preciso CRUD CODELIST FUNCIONAL
+
+US011 / SPRINT2 / 10OUT21
+Eu enquanto usuário preciso da tela do CRUD da CODELIST
+
+US010 / SPRINT2 / 10OUT21
+Eu enquanto gerente do projeto necessito fazer a manipulção de documentos PDFs, para identificar se houve alterações no documento
+
+US009 / SPRINT2 10OUT21
+Eu, enquanto Scrum Master necessito da criação das tabelas para a utilização do banco de dados.
+
+US008 / SPRINT2 / 10OUT21
+Eu, enquanto Scrum Master necessito da criação do servidor para ser utilizada no banco de dados.
+
+US007 / SPRINT2 / 10OUT21
+Eu, enquanto Scrum Master necessito fazer as correções necessárias dos protótipos da SPRINT1
+
+============================================= SPRINT 1 ======================================================
+
+US006 / SPRINT1 / 19SET21
+Eu, enquanto gerente de projeto necessito verificar os protótipos da tela de EDIÇÃO de dados (CRUD da CODELIST)
+
+US005 / SPRINT1 / 19SET21
+Eu, enquanto gerente de projeto necessito verificar os protótipos da tela de ALTERAÇÃO de dados (CRUD da CODELIST)
+
+US004 / SPRINT1 / 19SET21
+Eu, enquanto gerente de projeto necessito verificar os protótipos da tela de INCLUSÃO de dados (CRUD da CODELIST)
+
+US003 / SPRINT1 / 19SET21
+Eu, enquanto gerente de projeto necessito verificar os protótipos da tela de EXCLUSÃO de dados (CRUD da CODELIST)
+
+US002 / SPRINT1 / 19SET21
+Eu, enquanto gerente de projeto necessito verificar o modelo conceitual/físico do BD.
+
+US001 / SPRINT1 / 19SET21
+Eu, enquanto Product Owner necessito que seja elaborado um repositório GIT, a fim de gerenciarmos o projeto de forma colaborativa.
+
+===============================================================================================================
